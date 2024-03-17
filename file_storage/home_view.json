@@ -1,0 +1,232 @@
+{
+    "DataFrame1": {
+        "UID": [
+            "sdser3e24g6yg"
+        ],
+        "shareholdings": [
+            10
+        ]
+    },
+    "DataFrame2": {
+        "time_stamp": [
+            "2024-03-01",
+            "2024-03-02"
+        ],
+        "image": [
+            "URL SOURCE 1",
+            "URL SOURCE 2"
+        ],
+        "title": [
+            "Headline Title 1",
+            "Headline Title 2"
+        ],
+        "source_logo": [
+            "URL SOURCE 1",
+            "URL SOURCE 2"
+        ],
+        "source_name": [
+            "Headline Source 1",
+            "Headline Source 2"
+        ],
+        "author": [
+            "Headline Author 1",
+            "Headline Author 2"
+        ]
+    },
+    "DataFrame3": {
+        "time_stamp": [
+            "2023-12-03",
+            "2024-02-12",
+            "2024-02-14"
+        ],
+        "image": [
+            "https://news.google.com/api/attachments/CC8iJ0NnNWxkbEI2ZWtseVkzb3lZazVvVFJDU0FSalpBaWdCTWdPZEZCQQ=-w200-h112-p-df",
+            "https://news.google.com/api/attachments/CC8iK0NnNXFlVGRHVWxNeGIyOW9TRVZGVFJDb0FSaXNBaWdCTWdhQlFJSmp1UVE=-w200-h112-p-df",
+            "https://news.google.com/api/attachments/CC8iK0NnNHpUME5PTmxSUVpFNXJWbFpyVFJDb0FSaXJBaWdCTWdhbEZJQ1BFUXM=-w200-h112-p-df"
+        ],
+        "article": [
+            "Climate Finance and the USD 100 Billion Goal",
+            "The uninsurable world: what climate change is costing homeowners",
+            "Flagship climate finance scheme struggles to raise capital"
+        ],
+        "source_logo": [
+            "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.oecd.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "https://lh3.googleusercontent.com/281oPpXmEcGU9cV4N2LudyLEG2aBqbqG2iDoMoXUXKl-SWD4AUdO5652KVTGNmcduSWZB_7j=s0-h12",
+            "https://lh3.googleusercontent.com/281oPpXmEcGU9cV4N2LudyLEG2aBqbqG2iDoMoXUXKl-SWD4AUdO5652KVTGNmcduSWZB_7j=s0-h12"
+        ],
+        "source_name": [
+            "OECD",
+            "Financial Times",
+            "Financial Times"
+        ],
+        "author": [
+            "",
+            "",
+            "Kenza Bryan"
+        ]
+    },
+    "DataFrame4": {
+        "0": [
+            13.117571428571429,
+            13.120857142857142,
+            12.964428571428572,
+            13.098857142857142,
+            13.075142857142856,
+            13.193857142857143,
+            13.353285714285716,
+            13.61957142857143,
+            13.877714285714285,
+            13.866,
+            13.966857142857142,
+            14.120571428571427,
+            14.39857142857143,
+            14.605857142857145,
+            14.703,
+            15.090857142857143,
+            15.299428571428573,
+            15.469714285714286,
+            15.576571428571429,
+            15.781285714285714,
+            15.935857142857145,
+            16.142,
+            16.49214285714286,
+            16.511857142857142,
+            16.51071428571429,
+            16.65285714285714,
+            16.972,
+            16.93,
+            16.97085714285714,
+            16.97714285714286,
+            17.00185714285714,
+            16.86114285714286,
+            16.791857142857143,
+            16.792571428571428,
+            16.60571428571429,
+            16.432142857142857,
+            16.485857142857142,
+            16.376857142857144,
+            16.168,
+            15.747714285714286,
+            15.582285714285716,
+            15.213571428571429,
+            14.928285714285716,
+            14.539,
+            14.413285714285715,
+            14.385,
+            13.985142857142856,
+            13.883142857142857,
+            13.726714285714285,
+            13.332714285714285,
+            13.373857142857142,
+            13.523714285714288
+        ],
+        "2024": [
+            13.176714285714285,
+            12.976,
+            13.077285714285713,
+            13.208142857142857,
+            13.44442857142857,
+            13.611571428571429,
+            13.534999999999998,
+            13.497,
+            13.589285714285714,
+            NaN,
+            NaN,
+            NaN,
+            NaN,
+            NaN,
+            NaN,
+            NaN,
+            NaN,
+            NaN,
+            NaN,
+            NaN,
+            NaN,
+            NaN,
+            NaN,
+            NaN,
+            NaN,
+            NaN,
+            NaN,
+            NaN,
+            NaN,
+            NaN,
+            NaN,
+            NaN,
+            NaN,
+            NaN,
+            NaN,
+            NaN,
+            NaN,
+            NaN,
+            NaN,
+            NaN,
+            NaN,
+            NaN,
+            NaN,
+            NaN,
+            NaN,
+            NaN,
+            NaN,
+            NaN,
+            NaN,
+            NaN,
+            NaN,
+            NaN
+        ],
+        "Record": [
+            1,
+            -1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            -1,
+            -1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    }
+}
