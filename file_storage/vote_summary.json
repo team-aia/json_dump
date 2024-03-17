@@ -1,0 +1,66 @@
+{
+    "DataFrame1": {
+        "PID": [
+            "idxxdatetimexx 1",
+            "idxxdatetimexx 2",
+            "idxxdatetimexx 3",
+            "idxxdatetimexx 4"
+        ],
+        "stamp": [
+            "2024-03-01",
+            "2024-03-02",
+            "2024-03-03",
+            "2024-03-04"
+        ],
+        "image_sum": [
+            [
+                "URL SOURCE 1.1"
+            ],
+            [
+                "URL SOURCE 2.1"
+            ],
+            [
+                "URL SOURCE 3.1"
+            ],
+            [
+                "URL SOURCE 4.1"
+            ]
+        ],
+        "title": [
+            "Proposal Title 1",
+            "Proposal Title 2",
+            "Proposal Title 3",
+            "Proposal Title 4"
+        ],
+        "status": [
+            "Approved",
+            "Rejected",
+            "Option B",
+            "Pending"
+        ],
+        "score": [
+            [
+                10020,
+                54467
+            ],
+            [
+                922445,
+                24567
+            ],
+            [
+                34678,
+                56894
+            ],
+            [
+                244668,
+                234676
+            ]
+        ],
+        "response": [
+            "Graphite Response 1",
+            "Graphite Response 2",
+            "Graphite Response 3",
+            "Graphite Response 4"
+        ]
+    }
+}
