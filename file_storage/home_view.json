@@ -1,76 +1,58 @@
 {
     "DataFrame1": {
-        "UID": [
-            "sdser3e24g6yg"
-        ],
-        "shareholdings": [
-            10
-        ]
+        "3": {
+            "UID": "sdser3e24g6yg",
+            "shareholdings": 10
+        }
     },
     "DataFrame2": {
-        "time_stamp": [
-            "2024-03-01",
-            "2024-03-02"
-        ],
-        "image": [
-            "URL SOURCE 1",
-            "URL SOURCE 2"
-        ],
-        "title": [
-            "Headline Title 1",
-            "Headline Title 2"
-        ],
-        "source_logo": [
-            "URL SOURCE 1",
-            "URL SOURCE 2"
-        ],
-        "source_name": [
-            "Headline Source 1",
-            "Headline Source 2"
-        ],
-        "author": [
-            "Headline Author 1",
-            "Headline Author 2"
-        ]
+        "0": {
+            "time_stamp": "2024-03-01",
+            "image": "URL SOURCE 1",
+            "title": "Headline Title 1",
+            "source_logo": "URL SOURCE 1",
+            "source_name": "Headline Source 1",
+            "author": "Headline Author 1"
+        },
+        "1": {
+            "time_stamp": "2024-03-02",
+            "image": "URL SOURCE 2",
+            "title": "Headline Title 2",
+            "source_logo": "URL SOURCE 2",
+            "source_name": "Headline Source 2",
+            "author": "Headline Author 2"
+        }
     },
     "DataFrame3": {
-        "time_stamp": [
-            "2024-02-28",
-            "2024-03-05",
-            "2024-03-18"
-        ],
-        "image": [
-            "https://news.google.com/api/attachments/CC8iK0NnNHdhazVXU21kaGMxSXlNMGd4VFJDM0FSaVRBaWdCTWdaSmdJSzJOQWM=-w200-h112-p-df",
-            "https://news.google.com/api/attachments/CC8iL0NnNUpUMFZZUTJ4bmVFeGhlRVJrVFJDakFSaTJBaWdCTWdrbFlvS3Z0YVUxbVFB=-w200-h112-p-df",
-            "https://news.google.com/api/attachments/CC8iK0NnNVdORE5sZGxOU1gyUmhYMW8wVFJDM0FSaVRBaWdCTWdhQk5JNUVuZ2M=-w200-h112-p-df"
-        ],
-        "article": [
-            "Climate change: alarming Africa-wide report predicts 30% drop in crop revenue, 50 million without water",
-            "Financial toll of climate crisis hitting women harder, UN says",
-            "Fossil fuel sector should pay climate finance, EU ministers say"
-        ],
-        "source_logo": [
-            "https://lh3.googleusercontent.com/upMolb71h9WLsTXgTUx4w8IL2K5lEpfkWwnaVUDL5ZAMiVZS1Nm74IMbnbRnuZx7Hoy96i0gRQ=s0-h12",
-            "https://lh3.googleusercontent.com/SU8FywVNtcrG-wgjvZ_0D1-3JR_pN9LNSgjULFH74N748KVyEdkF1jdbvP4Lr7_ClbPZxL-iPw=s0-h12",
-            "https://lh3.googleusercontent.com/_AzfrIDK0Y2J1UxMf2Vsk_jplo_b1FNy-wN0SSwukEJcPYmVFYFXdE-7vUECL8snyZJXUN5dR94=s0-h12"
-        ],
-        "source_name": [
-            "The Conversation Indonesia",
-            "The Guardian",
-            "Reuters"
-        ],
-        "author": [
-            "Philip Adom",
-            "Fiona Harvey",
-            "Kate Abnett"
-        ]
+        "0": {
+            "time_stamp": "2024-02-28",
+            "image": "https://news.google.com/api/attachments/CC8iK0NnNHdhazVXU21kaGMxSXlNMGd4VFJDM0FSaVRBaWdCTWdaSmdJSzJOQWM=-w200-h112-p-df",
+            "article": "Climate change: alarming Africa-wide report predicts 30% drop in crop revenue, 50 million without water",
+            "source_logo": "https://lh3.googleusercontent.com/upMolb71h9WLsTXgTUx4w8IL2K5lEpfkWwnaVUDL5ZAMiVZS1Nm74IMbnbRnuZx7Hoy96i0gRQ=s0-h12",
+            "source_name": "The Conversation Indonesia",
+            "author": "Philip Adom"
+        },
+        "1": {
+            "time_stamp": "2024-03-05",
+            "image": "https://news.google.com/api/attachments/CC8iL0NnNUpUMFZZUTJ4bmVFeGhlRVJrVFJDakFSaTJBaWdCTWdrbFlvS3Z0YVUxbVFB=-w200-h112-p-df",
+            "article": "Financial toll of climate crisis hitting women harder, UN says",
+            "source_logo": "https://lh3.googleusercontent.com/SU8FywVNtcrG-wgjvZ_0D1-3JR_pN9LNSgjULFH74N748KVyEdkF1jdbvP4Lr7_ClbPZxL-iPw=s0-h12",
+            "source_name": "The Guardian",
+            "author": "Fiona Harvey"
+        },
+        "2": {
+            "time_stamp": "2024-03-19",
+            "image": "https://news.google.com/api/attachments/CC8iK0NnNUpVVm8yUTJSa1NtTkVkamxtVFJDM0FSaVRBaWdCTWdZQmtJWm95UVE=-w200-h112-p-df",
+            "article": "Climate change indicators reached record levels in 2023: WMO",
+            "source_logo": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://wmo.int&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_name": "World Meteorological Organization WMO",
+            "author": ""
+        }
     },
     "DataFrame4": {
-        "index": [
-            0
-        ],
-        "record": [
-            [
+        "0": {
+            "index": 0,
+            "record": [
                 1,
                 -1,
                 1,
@@ -124,6 +106,6 @@
                 0,
                 0
             ]
-        ]
+        }
     }
 }
