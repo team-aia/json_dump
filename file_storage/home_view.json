@@ -1,129 +1,124 @@
 {
-    "DataFrame1": [
-        {
+    "DataFrame1": {
+        "UID": {
             "3": "sdser3e24g6yg"
         },
-        {
+        "shareholdings": {
             "3": 10
         }
-    ],
-    "DataFrame2": [
-        {
+    },
+    "DataFrame2": {
+        "time_stamp": {
             "0": "2024-03-01",
             "1": "2024-03-02"
         },
-        {
+        "image": {
             "0": "URL SOURCE 1",
             "1": "URL SOURCE 2"
         },
-        {
+        "title": {
             "0": "Headline Title 1",
             "1": "Headline Title 2"
         },
-        {
+        "source_logo": {
             "0": "URL SOURCE 1",
             "1": "URL SOURCE 2"
         },
-        {
+        "source_name": {
             "0": "Headline Source 1",
             "1": "Headline Source 2"
         },
-        {
+        "author": {
             "0": "Headline Author 1",
             "1": "Headline Author 2"
         }
-    ],
-    "DataFrame3": [
-        {
+    },
+    "DataFrame3": {
+        "time_stamp": {
             "0": "2024-02-28",
             "1": "2024-03-05",
-            "2": "2024-03-18"
+            "2": "2024-03-19"
         },
-        {
+        "image": {
             "0": "https://news.google.com/api/attachments/CC8iK0NnNHdhazVXU21kaGMxSXlNMGd4VFJDM0FSaVRBaWdCTWdaSmdJSzJOQWM=-w200-h112-p-df",
             "1": "https://news.google.com/api/attachments/CC8iL0NnNUpUMFZZUTJ4bmVFeGhlRVJrVFJDakFSaTJBaWdCTWdrbFlvS3Z0YVUxbVFB=-w200-h112-p-df",
-            "2": "https://news.google.com/api/attachments/CC8iK0NnNVdORE5sZGxOU1gyUmhYMW8wVFJDM0FSaVRBaWdCTWdhQk5JNUVuZ2M=-w200-h112-p-df"
+            "2": "https://news.google.com/api/attachments/CC8iK0NnNUpVVm8yUTJSa1NtTkVkamxtVFJDM0FSaVRBaWdCTWdZQmtJWm95UVE=-w200-h112-p-df"
         },
-        {
+        "article": {
             "0": "Climate change: alarming Africa-wide report predicts 30% drop in crop revenue, 50 million without water",
             "1": "Financial toll of climate crisis hitting women harder, UN says",
-            "2": "Fossil fuel sector should pay climate finance, EU ministers say"
+            "2": "Climate change indicators reached record levels in 2023: WMO"
         },
-        {
+        "source_logo": {
             "0": "https://lh3.googleusercontent.com/upMolb71h9WLsTXgTUx4w8IL2K5lEpfkWwnaVUDL5ZAMiVZS1Nm74IMbnbRnuZx7Hoy96i0gRQ=s0-h12",
             "1": "https://lh3.googleusercontent.com/SU8FywVNtcrG-wgjvZ_0D1-3JR_pN9LNSgjULFH74N748KVyEdkF1jdbvP4Lr7_ClbPZxL-iPw=s0-h12",
-            "2": "https://lh3.googleusercontent.com/_AzfrIDK0Y2J1UxMf2Vsk_jplo_b1FNy-wN0SSwukEJcPYmVFYFXdE-7vUECL8snyZJXUN5dR94=s0-h12"
+            "2": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://wmo.int&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
         },
-        {
+        "source_name": {
             "0": "The Conversation Indonesia",
             "1": "The Guardian",
-            "2": "Reuters"
+            "2": "World Meteorological Organization WMO"
         },
-        {
+        "author": {
             "0": "Philip Adom",
             "1": "Fiona Harvey",
-            "2": "Kate Abnett"
+            "2": ""
         }
-    ],
-    "DataFrame4": [
-        {
-            "0": 0
-        },
-        {
-            "0": [
-                1,
-                -1,
-                1,
-                1,
-                1,
-                1,
-                1,
-                -1,
-                -1,
-                -1,
-                1,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0,
-                0
-            ]
-        }
-    ]
+    },
+    "DataFrame4": {
+        "0": [
+            1,
+            -1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            -1,
+            -1,
+            -1,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    }
 }
