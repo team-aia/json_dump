@@ -9,27 +9,35 @@
   },
   "DataFrame2": {
     "time_stamp": [
-      "2024-03-01", "2024-03-02"
+      "2024-03-01",
+      "2024-03-02"
     ],
     "image": [
-      "URL SOURCE 1", "URL SOURCE 2"
+      "URL SOURCE 1",
+      "URL SOURCE 2"
     ],
     "title": [
-      "Headline Title 1", "Headline Title 2"
+      "Headline Title 1",
+      "Headline Title 2"
     ],
     "source_logo": [
-      "URL SOURCE 1", "URL SOURCE 2"
+      "URL SOURCE 1",
+      "URL SOURCE 2"
     ],
     "source_name": [
-      "Headline Source 1", "Headline Source 2"
+      "Headline Source 1",
+      "Headline Source 2"
     ],
     "author": [
-      "Headline Author 1", "Headline Author 2"
+      "Headline Author 1",
+      "Headline Author 2"
     ]
   },
   "DataFrame3": {
     "time_stamp": [
-      "2024-02-28", "2024-03-05", "2024-03-19"
+      "2024-02-28",
+      "2024-03-05",
+      "2024-03-19"
     ],
     "image": [
       "https://news.google.com/api/attachments/CC8iK0NnNHdhazVXU21kaGMxSXlNMGd4VFJDM0FSaVRBaWdCTWdaSmdJSzJOQWM=-w200-h112-p-df",
