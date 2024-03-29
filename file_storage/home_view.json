@@ -32,5 +32,37 @@
             "Headline Author 1",
             "Headline Author 2"
         ]
+    },
+    "DataFrame3": {
+        "time_stamp": [
+            "2024-02-28",
+            "2024-03-05",
+            "2024-03-19"
+        ],
+        "image": [
+            "https://news.google.com/api/attachments/CC8iK0NnNHdhazVXU21kaGMxSXlNMGd4VFJDM0FSaVRBaWdCTWdaSmdJSzJOQWM=-w200-h112-p-df",
+            "https://news.google.com/api/attachments/CC8iL0NnNUpUMFZZUTJ4bmVFeGhlRVJrVFJDakFSaTJBaWdCTWdrbFlvS3Z0YVUxbVFB=-w200-h112-p-df",
+            "https://news.google.com/api/attachments/CC8iJ0NnNXJUMHBQZHpOSVgxaE1hbmxhVFJDM0FSaVRBaWdCTWdNRk1BRQ=-w200-h112-p-df"
+        ],
+        "article": [
+            "Climate change: alarming Africa-wide report predicts 30% drop in crop revenue, 50 million without water",
+            "Financial toll of climate crisis hitting women harder, UN says",
+            "U.N. Weather Agency Issues 'Red Alert' on Climate Change"
+        ],
+        "source_logo": [
+            "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://theconversation.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "https://lh3.googleusercontent.com/SU8FywVNtcrG-wgjvZ_0D1-3JR_pN9LNSgjULFH74N748KVyEdkF1jdbvP4Lr7_ClbPZxL-iPw=s0-h12",
+            "https://lh3.googleusercontent.com/Xitxs7dGL78WNXqnqMPDISrJ4jcU18e16qz-YH7ui8AHbD4pJdw7bEFhTcbz4JsBIja9V-NrWQ=s0-h12"
+        ],
+        "source_name": [
+            "The Conversation",
+            "The Guardian",
+            "TIME"
+        ],
+        "author": [
+            "Philip Adom",
+            "Fiona Harvey",
+            "Seth Borenstein and Jamey Keaten"
+        ]
     }
 }
