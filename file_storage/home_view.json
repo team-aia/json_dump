@@ -1,71 +1,262 @@
 {
-    "DataFrame1": {
-        "UID": [
-            "sdser3e24g6yg"
-        ],
-        "shareholdings": [
-            10
-        ]
-    },
-    "DataFrame2": {
-        "time_stamp": [
-            "2024-03-01",
-            "2024-03-02"
-        ],
-        "image": [
-            "URL SOURCE 1",
-            "URL SOURCE 2"
-        ],
-        "title": [
-            "Headline Title 1",
-            "Headline Title 2"
-        ],
-        "source_logo": [
-            "URL SOURCE 1",
-            "URL SOURCE 2"
-        ],
-        "source_name": [
-            "Headline Source 1",
-            "Headline Source 2"
-        ],
-        "author": [
-            "Headline Author 1",
-            "Headline Author 2"
-        ]
-    },
-    "DataFrame3": {
-        "time_stamp": [
-            "2024-02-28",
-            "2024-03-05",
-            "2024-03-19"
-        ],
-        "image": [
-            "https://news.google.com/api/attachments/CC8iK0NnNHdhazVXU21kaGMxSXlNMGd4VFJDM0FSaVRBaWdCTWdaSmdJSzJOQWM=-w200-h112-p-df",
-            "https://news.google.com/api/attachments/CC8iL0NnNUpUMFZZUTJ4bmVFeGhlRVJrVFJDakFSaTJBaWdCTWdrbFlvS3Z0YVUxbVFB=-w200-h112-p-df",
-            "https://news.google.com/api/attachments/CC8iJ0NnNXJUMHBQZHpOSVgxaE1hbmxhVFJDM0FSaVRBaWdCTWdNRk1BRQ=-w200-h112-p-df"
-        ],
-        "article": [
-            "Climate change: alarming Africa-wide report predicts 30% drop in crop revenue, 50 million without water",
-            "Financial toll of climate crisis hitting women harder, UN says",
-            "U.N. Weather Agency Issues 'Red Alert' on Climate Change"
-        ],
-        "source_logo": [
-            "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://theconversation.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-            "https://lh3.googleusercontent.com/SU8FywVNtcrG-wgjvZ_0D1-3JR_pN9LNSgjULFH74N748KVyEdkF1jdbvP4Lr7_ClbPZxL-iPw=s0-h12",
-            "https://lh3.googleusercontent.com/Xitxs7dGL78WNXqnqMPDISrJ4jcU18e16qz-YH7ui8AHbD4pJdw7bEFhTcbz4JsBIja9V-NrWQ=s0-h12"
-        ],
-        "source_name": [
-            "The Conversation",
-            "The Guardian",
-            "TIME"
-        ],
-        "author": [
-            "Philip Adom",
-            "Fiona Harvey",
-            "Seth Borenstein and Jamey Keaten"
-        ]
-    },
-    "DataFrame4": {
-        "Record": [1, -1, 1, 1, 1, 1, 1, -1, -1, -1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
-    }
+    "DataFrame1": [
+        {
+            "UID": "sdser3e24g6yg",
+            "shareholdings": 10
+        }
+    ],
+    "DataFrame2": [
+        {
+            "time_stamp": "2024-03-01",
+            "image": "URL SOURCE 1",
+            "title": "Headline Title 1",
+            "source_logo": "URL SOURCE 1",
+            "source_name": "Headline Source 1",
+            "author": "Headline Author 1"
+        },
+        {
+            "time_stamp": "2024-03-02",
+            "image": "URL SOURCE 2",
+            "title": "Headline Title 2",
+            "source_logo": "URL SOURCE 2",
+            "source_name": "Headline Source 2",
+            "author": "Headline Author 2"
+        }
+    ],
+    "DataFrame3": [
+        {
+            "time_stamp": "2024-02-28",
+            "image": "https://news.google.com/api/attachments/CC8iK0NnNHdhazVXU21kaGMxSXlNMGd4VFJDM0FSaVRBaWdCTWdaSmdJSzJOQWM=-w200-h112-p-df",
+            "article": "Climate change: alarming Africa-wide report predicts 30% drop in crop revenue, 50 million without water",
+            "source_logo": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://theconversation.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+            "source_name": "The Conversation",
+            "author": "Philip Adom"
+        },
+        {
+            "time_stamp": "2024-03-05",
+            "image": "https://news.google.com/api/attachments/CC8iL0NnNUpUMFZZUTJ4bmVFeGhlRVJrVFJDakFSaTJBaWdCTWdrbFlvS3Z0YVUxbVFB=-w200-h112-p-df",
+            "article": "Financial toll of climate crisis hitting women harder, UN says",
+            "source_logo": "https://lh3.googleusercontent.com/SU8FywVNtcrG-wgjvZ_0D1-3JR_pN9LNSgjULFH74N748KVyEdkF1jdbvP4Lr7_ClbPZxL-iPw=s0-h12",
+            "source_name": "The Guardian",
+            "author": "Fiona Harvey"
+        },
+        {
+            "time_stamp": "2024-03-19",
+            "image": "https://news.google.com/api/attachments/CC8iJ0NnNXJUMHBQZHpOSVgxaE1hbmxhVFJDM0FSaVRBaWdCTWdNRk1BRQ=-w200-h112-p-df",
+            "article": "U.N. Weather Agency Issues 'Red Alert' on Climate Change",
+            "source_logo": "https://lh3.googleusercontent.com/Xitxs7dGL78WNXqnqMPDISrJ4jcU18e16qz-YH7ui8AHbD4pJdw7bEFhTcbz4JsBIja9V-NrWQ=s0-h12",
+            "source_name": "TIME",
+            "author": "Seth Borenstein and Jamey Keaten"
+        }
+    ],
+    "DataFrame4": [
+        {
+            "index": 0,
+            "Record": 1
+        },
+        {
+            "index": 1,
+            "Record": -1
+        },
+        {
+            "index": 2,
+            "Record": 1
+        },
+        {
+            "index": 3,
+            "Record": 1
+        },
+        {
+            "index": 4,
+            "Record": 1
+        },
+        {
+            "index": 5,
+            "Record": 1
+        },
+        {
+            "index": 6,
+            "Record": 1
+        },
+        {
+            "index": 7,
+            "Record": -1
+        },
+        {
+            "index": 8,
+            "Record": -1
+        },
+        {
+            "index": 9,
+            "Record": -1
+        },
+        {
+            "index": 10,
+            "Record": 1
+        },
+        {
+            "index": 11,
+            "Record": 0
+        },
+        {
+            "index": 12,
+            "Record": 0
+        },
+        {
+            "index": 13,
+            "Record": 0
+        },
+        {
+            "index": 14,
+            "Record": 0
+        },
+        {
+            "index": 15,
+            "Record": 0
+        },
+        {
+            "index": 16,
+            "Record": 0
+        },
+        {
+            "index": 17,
+            "Record": 0
+        },
+        {
+            "index": 18,
+            "Record": 0
+        },
+        {
+            "index": 19,
+            "Record": 0
+        },
+        {
+            "index": 20,
+            "Record": 0
+        },
+        {
+            "index": 21,
+            "Record": 0
+        },
+        {
+            "index": 22,
+            "Record": 0
+        },
+        {
+            "index": 23,
+            "Record": 0
+        },
+        {
+            "index": 24,
+            "Record": 0
+        },
+        {
+            "index": 25,
+            "Record": 0
+        },
+        {
+            "index": 26,
+            "Record": 0
+        },
+        {
+            "index": 27,
+            "Record": 0
+        },
+        {
+            "index": 28,
+            "Record": 0
+        },
+        {
+            "index": 29,
+            "Record": 0
+        },
+        {
+            "index": 30,
+            "Record": 0
+        },
+        {
+            "index": 31,
+            "Record": 0
+        },
+        {
+            "index": 32,
+            "Record": 0
+        },
+        {
+            "index": 33,
+            "Record": 0
+        },
+        {
+            "index": 34,
+            "Record": 0
+        },
+        {
+            "index": 35,
+            "Record": 0
+        },
+        {
+            "index": 36,
+            "Record": 0
+        },
+        {
+            "index": 37,
+            "Record": 0
+        },
+        {
+            "index": 38,
+            "Record": 0
+        },
+        {
+            "index": 39,
+            "Record": 0
+        },
+        {
+            "index": 40,
+            "Record": 0
+        },
+        {
+            "index": 41,
+            "Record": 0
+        },
+        {
+            "index": 42,
+            "Record": 0
+        },
+        {
+            "index": 43,
+            "Record": 0
+        },
+        {
+            "index": 44,
+            "Record": 0
+        },
+        {
+            "index": 45,
+            "Record": 0
+        },
+        {
+            "index": 46,
+            "Record": 0
+        },
+        {
+            "index": 47,
+            "Record": 0
+        },
+        {
+            "index": 48,
+            "Record": 0
+        },
+        {
+            "index": 49,
+            "Record": 0
+        },
+        {
+            "index": 50,
+            "Record": 0
+        },
+        {
+            "index": 51,
+            "Record": 0
+        }
+    ]
 }
